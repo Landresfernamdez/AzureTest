@@ -1,0 +1,976 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="92aeddba-4ca8-449e-bc4f-ac3a5c9c363e" name="Default" comment="" />
+    <ignored path="$PROJECT_DIR$/.tmp/" />
+    <ignored path="$PROJECT_DIR$/temp/" />
+    <ignored path="$PROJECT_DIR$/tmp/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="funciones_principales.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Logica Juego/funciones_principales.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="236">
+              <caret line="530" column="9" lean-forward="true" selection-start-line="530" selection-start-column="9" selection-end-line="530" selection-end-column="9" />
+              <folding>
+                <element signature="e#240#411#0" expanded="false" />
+                <element signature="e#473#763#0" expanded="false" />
+                <element signature="e#764#887#0" expanded="false" />
+                <element signature="e#928#1119#0" expanded="false" />
+                <element signature="e#1120#1182#0" expanded="false" />
+                <element signature="e#1215#1438#0" expanded="false" />
+                <element signature="e#1439#1510#0" expanded="false" />
+                <element signature="e#1543#1693#0" expanded="false" />
+                <element signature="e#1694#1803#0" expanded="false" />
+                <element signature="e#1838#2547#0" expanded="false" />
+                <element signature="e#2548#2675#0" expanded="false" />
+                <element signature="e#3550#3658#0" expanded="false" />
+                <element signature="e#3692#4369#0" expanded="false" />
+                <element signature="e#4370#4495#0" expanded="false" />
+                <element signature="e#5403#5522#0" expanded="false" />
+                <element signature="e#5558#6236#0" expanded="false" />
+                <element signature="e#6237#6370#0" expanded="false" />
+                <element signature="e#7279#7396#0" expanded="false" />
+                <element signature="e#7434#8134#0" expanded="false" />
+                <element signature="e#8135#8270#0" expanded="false" />
+                <element signature="e#9147#9253#0" expanded="false" />
+                <element signature="e#9295#10083#0" expanded="false" />
+                <element signature="e#10084#10219#0" expanded="false" />
+                <element signature="e#11210#11333#0" expanded="false" />
+                <element signature="e#11374#12122#0" expanded="false" />
+                <element signature="e#12123#12249#0" expanded="false" />
+                <element signature="e#13273#13389#0" expanded="false" />
+                <element signature="e#13433#14248#0" expanded="false" />
+                <element signature="e#14249#14376#0" expanded="false" />
+                <element signature="e#15333#15441#0" expanded="false" />
+                <element signature="e#15484#16267#0" expanded="false" />
+                <element signature="e#16268#16394#0" expanded="false" />
+                <element signature="n#!!doc;n#ordenarLista#0" expanded="false" />
+                <element signature="n#!!block;n#ordenarLista#0" expanded="false" />
+                <element signature="n#!!doc;n#devuelveFichasPC#0" expanded="false" />
+                <element signature="n#!!block;n#devuelveFichasPC#0" expanded="false" />
+                <element signature="n#!!doc;n#fichasJugadorXtienenJugada#0" expanded="false" />
+                <element signature="n#!!doc;n#posiblesJugadas#0" expanded="false" />
+                <element signature="n#!!block;n#posiblesJugadas#0" expanded="false" />
+                <element signature="e#20729#20861#0" expanded="false" />
+                <element signature="e#36199#36305#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="logicaComponentes.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Logica/logicaComponentes.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="153">
+              <caret line="58" column="22" lean-forward="true" selection-start-line="58" selection-start-column="22" selection-end-line="58" selection-end-column="22" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="controladorComponentes.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Controladores/controladorComponentes.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="170">
+              <caret line="10" column="27" lean-forward="true" selection-start-line="10" selection-start-column="27" selection-end-line="10" selection-end-column="27" />
+              <folding>
+                <element signature="n#!!doc" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="consultsPreparerComponente.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ConsultsPreparer/consultsPreparerComponente.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="270">
+              <caret line="52" column="41" lean-forward="false" selection-start-line="52" selection-start-column="41" selection-end-line="52" selection-end-column="41" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="sqlConection.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ConexionDBs/sqlConection.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-220">
+              <caret line="129" column="49" lean-forward="false" selection-start-line="129" selection-start-column="49" selection-end-line="129" selection-end-column="49" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="server.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/server.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="270">
+              <caret line="55" column="39" lean-forward="false" selection-start-line="55" selection-start-column="39" selection-end-line="55" selection-end-column="39" />
+              <folding>
+                <element signature="n#!!doc" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Controladores/controladorComponentes.js" />
+        <option value="$PROJECT_DIR$/Logica Juego/funciones_principales.js" />
+        <option value="$PROJECT_DIR$/ConsultsPreparer/consultsPreparerComponente.js" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER">
+    <package-json value="$PROJECT_DIR$/package.json" />
+  </component>
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodeModulesDirectoryManager">
+    <handled-path value="$PROJECT_DIR$/node_modules" />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1382" />
+    <option name="height" value="744" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Server" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Server" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Server" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Server" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Logica Juego" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Server" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Server" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Logica" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Server" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Server" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Controladores" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Server" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Server" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ConsultsPreparer" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Server" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Server" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ConexionDBs" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scratches" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path" value="C:/Program Files/nodejs/node" />
+    <property name="HbShouldOpenHtmlAsHb" value="" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="CodeceptionConfigurationType" factoryName="Codeception">
+      <PhpTestRunnerSettings />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerJest" factoryName="Jest">
+      <node-interpreter value="project" />
+      <working-dir value="" />
+      <envs />
+      <scope-kind value="ALL" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerProtractor" factoryName="Protractor">
+      <config-file value="" />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="NodeJSConfigurationType" factoryName="Node.js" path-to-node="project" working-dir="">
+      <method />
+    </configuration>
+    <configuration default="true" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
+      <TestRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpBehatConfigurationType" factoryName="Behat">
+      <BehatRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpLocalRunConfigurationType" factoryName="PHP Console">
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpSpecConfigurationType" factoryName="PHPSpec">
+      <PhpTestRunnerSettings />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run" />
+      <scripts />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="mocha-javascript-test-runner" factoryName="Mocha">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <working-directory />
+      <pass-parent-env>true</pass-parent-env>
+      <envs />
+      <ui />
+      <extra-mocha-options />
+      <test-kind>DIRECTORY</test-kind>
+      <test-directory />
+      <recursive>false</recursive>
+      <method />
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="92aeddba-4ca8-449e-bc4f-ac3a5c9c363e" name="Default" comment="" />
+      <created>1511636039470</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1511636039470</updated>
+      <workItem from="1511636041466" duration="5000" />
+      <workItem from="1511712817282" duration="1469000" />
+      <workItem from="1522119715168" duration="34686000" />
+      <workItem from="1522199905027" duration="21613000" />
+      <workItem from="1522351197512" duration="4775000" />
+      <workItem from="1522366748616" duration="1402000" />
+      <workItem from="1522420594597" duration="137000" />
+      <workItem from="1522420735339" duration="2183000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="66270000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.20196672" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="npm" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24962178" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="processedProjectFiles" value="true" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="17" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Logica Juego/funciones_principales.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#240#411#0" expanded="false" />
+            <element signature="e#473#763#0" expanded="false" />
+            <element signature="e#764#887#0" expanded="false" />
+            <element signature="e#928#1119#0" expanded="false" />
+            <element signature="e#1120#1182#0" expanded="false" />
+            <element signature="e#1215#1438#0" expanded="false" />
+            <element signature="e#1439#1510#0" expanded="false" />
+            <element signature="e#1543#1693#0" expanded="false" />
+            <element signature="e#1694#1803#0" expanded="false" />
+            <element signature="e#1838#2547#0" expanded="false" />
+            <element signature="e#2548#2675#0" expanded="false" />
+            <element signature="e#3550#3658#0" expanded="false" />
+            <element signature="e#3692#4369#0" expanded="false" />
+            <element signature="e#4370#4495#0" expanded="false" />
+            <element signature="e#5403#5522#0" expanded="false" />
+            <element signature="e#5558#6236#0" expanded="false" />
+            <element signature="e#6237#6370#0" expanded="false" />
+            <element signature="e#7279#7396#0" expanded="false" />
+            <element signature="e#7434#8134#0" expanded="false" />
+            <element signature="e#8135#8270#0" expanded="false" />
+            <element signature="e#9147#9253#0" expanded="false" />
+            <element signature="e#9295#10083#0" expanded="false" />
+            <element signature="e#10084#10219#0" expanded="false" />
+            <element signature="e#11210#11333#0" expanded="false" />
+            <element signature="e#11374#12122#0" expanded="false" />
+            <element signature="e#12123#12249#0" expanded="false" />
+            <element signature="e#13273#13389#0" expanded="false" />
+            <element signature="e#13433#14248#0" expanded="false" />
+            <element signature="e#14249#14376#0" expanded="false" />
+            <element signature="e#15333#15441#0" expanded="false" />
+            <element signature="e#15484#16267#0" expanded="false" />
+            <element signature="e#16268#16394#0" expanded="false" />
+            <element signature="n#!!doc;n#ordenarLista#0" expanded="false" />
+            <element signature="n#!!block;n#ordenarLista#0" expanded="false" />
+            <element signature="n#!!doc;n#devuelveFichasPC#0" expanded="false" />
+            <element signature="n#!!block;n#devuelveFichasPC#0" expanded="false" />
+            <element signature="n#!!doc;n#fichasJugadorXtienenJugada#0" expanded="false" />
+            <element signature="n#!!doc;n#posiblesJugadas#0" expanded="false" />
+            <element signature="n#!!block;n#posiblesJugadas#0" expanded="false" />
+            <element signature="e#20729#20861#0" expanded="false" />
+            <element signature="e#36199#36305#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Logica/logicaComponentes.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="850">
+          <caret line="54" column="54" lean-forward="false" selection-start-line="54" selection-start-column="54" selection-end-line="54" selection-end-column="54" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Controladores/controladorComponentes.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" column="29" lean-forward="false" selection-start-line="17" selection-start-column="29" selection-end-line="17" selection-end-column="29" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ConsultsPreparer/consultsPreparerComponente.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="935">
+          <caret line="55" column="31" lean-forward="false" selection-start-line="55" selection-start-column="31" selection-end-line="55" selection-end-column="31" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ConexionDBs/sqlConection.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2193">
+          <caret line="129" column="49" lean-forward="false" selection-start-line="129" selection-start-column="49" selection-end-line="129" selection-end-column="49" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="935">
+          <caret line="55" column="39" lean-forward="false" selection-start-line="55" selection-start-column="39" selection-end-line="55" selection-end-column="39" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Logica Juego/funciones_principales.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#240#411#0" expanded="false" />
+            <element signature="e#473#763#0" expanded="false" />
+            <element signature="e#764#887#0" expanded="false" />
+            <element signature="e#928#1119#0" expanded="false" />
+            <element signature="e#1120#1182#0" expanded="false" />
+            <element signature="e#1215#1438#0" expanded="false" />
+            <element signature="e#1439#1510#0" expanded="false" />
+            <element signature="e#1543#1693#0" expanded="false" />
+            <element signature="e#1694#1803#0" expanded="false" />
+            <element signature="e#1838#2547#0" expanded="false" />
+            <element signature="e#2548#2675#0" expanded="false" />
+            <element signature="e#3550#3658#0" expanded="false" />
+            <element signature="e#3692#4369#0" expanded="false" />
+            <element signature="e#4370#4495#0" expanded="false" />
+            <element signature="e#5403#5522#0" expanded="false" />
+            <element signature="e#5558#6236#0" expanded="false" />
+            <element signature="e#6237#6370#0" expanded="false" />
+            <element signature="e#7279#7396#0" expanded="false" />
+            <element signature="e#7434#8134#0" expanded="false" />
+            <element signature="e#8135#8270#0" expanded="false" />
+            <element signature="e#9147#9253#0" expanded="false" />
+            <element signature="e#9295#10083#0" expanded="false" />
+            <element signature="e#10084#10219#0" expanded="false" />
+            <element signature="e#11210#11333#0" expanded="false" />
+            <element signature="e#11374#12122#0" expanded="false" />
+            <element signature="e#12123#12249#0" expanded="false" />
+            <element signature="e#13273#13389#0" expanded="false" />
+            <element signature="e#13433#14248#0" expanded="false" />
+            <element signature="e#14249#14376#0" expanded="false" />
+            <element signature="e#15333#15441#0" expanded="false" />
+            <element signature="e#15484#16267#0" expanded="false" />
+            <element signature="e#16268#16394#0" expanded="false" />
+            <element signature="n#!!doc;n#ordenarLista#0" expanded="false" />
+            <element signature="n#!!block;n#ordenarLista#0" expanded="false" />
+            <element signature="n#!!doc;n#devuelveFichasPC#0" expanded="false" />
+            <element signature="n#!!block;n#devuelveFichasPC#0" expanded="false" />
+            <element signature="n#!!doc;n#fichasJugadorXtienenJugada#0" expanded="false" />
+            <element signature="n#!!doc;n#posiblesJugadas#0" expanded="false" />
+            <element signature="n#!!block;n#posiblesJugadas#0" expanded="false" />
+            <element signature="e#20729#20861#0" expanded="false" />
+            <element signature="e#36199#36305#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Logica/logicaComponentes.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="850">
+          <caret line="54" column="54" lean-forward="false" selection-start-line="54" selection-start-column="54" selection-end-line="54" selection-end-column="54" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Controladores/controladorComponentes.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="17" column="29" lean-forward="false" selection-start-line="17" selection-start-column="29" selection-end-line="17" selection-end-column="29" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ConsultsPreparer/consultsPreparerComponente.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="935">
+          <caret line="55" column="31" lean-forward="false" selection-start-line="55" selection-start-column="31" selection-end-line="55" selection-end-column="31" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ConexionDBs/sqlConection.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2193">
+          <caret line="129" column="49" lean-forward="false" selection-start-line="129" selection-start-column="49" selection-end-line="129" selection-end-column="49" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="731">
+          <caret line="55" column="39" lean-forward="false" selection-start-line="55" selection-start-column="39" selection-end-line="55" selection-end-column="39" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Logica Juego/funciones_principales.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#240#411#0" expanded="false" />
+            <element signature="e#473#763#0" expanded="false" />
+            <element signature="e#764#887#0" expanded="false" />
+            <element signature="e#928#1119#0" expanded="false" />
+            <element signature="e#1120#1182#0" expanded="false" />
+            <element signature="e#1215#1438#0" expanded="false" />
+            <element signature="e#1439#1510#0" expanded="false" />
+            <element signature="e#1543#1693#0" expanded="false" />
+            <element signature="e#1694#1803#0" expanded="false" />
+            <element signature="e#1838#2547#0" expanded="false" />
+            <element signature="e#2548#2675#0" expanded="false" />
+            <element signature="e#3550#3658#0" expanded="false" />
+            <element signature="e#3692#4369#0" expanded="false" />
+            <element signature="e#4370#4495#0" expanded="false" />
+            <element signature="e#5403#5522#0" expanded="false" />
+            <element signature="e#5558#6236#0" expanded="false" />
+            <element signature="e#6237#6370#0" expanded="false" />
+            <element signature="e#7279#7396#0" expanded="false" />
+            <element signature="e#7434#8134#0" expanded="false" />
+            <element signature="e#8135#8270#0" expanded="false" />
+            <element signature="e#9147#9253#0" expanded="false" />
+            <element signature="e#9295#10083#0" expanded="false" />
+            <element signature="e#10084#10219#0" expanded="false" />
+            <element signature="e#11210#11333#0" expanded="false" />
+            <element signature="e#11374#12122#0" expanded="false" />
+            <element signature="e#12123#12249#0" expanded="false" />
+            <element signature="e#13273#13389#0" expanded="false" />
+            <element signature="e#13433#14248#0" expanded="false" />
+            <element signature="e#14249#14376#0" expanded="false" />
+            <element signature="e#15333#15441#0" expanded="false" />
+            <element signature="e#15484#16267#0" expanded="false" />
+            <element signature="e#16268#16394#0" expanded="false" />
+            <element signature="n#!!doc;n#ordenarLista#0" expanded="false" />
+            <element signature="n#!!block;n#ordenarLista#0" expanded="false" />
+            <element signature="n#!!doc;n#devuelveFichasPC#0" expanded="false" />
+            <element signature="n#!!block;n#devuelveFichasPC#0" expanded="false" />
+            <element signature="n#!!doc;n#fichasJugadorXtienenJugada#0" expanded="false" />
+            <element signature="n#!!doc;n#posiblesJugadas#0" expanded="false" />
+            <element signature="n#!!block;n#posiblesJugadas#0" expanded="false" />
+            <element signature="e#20729#20861#0" expanded="false" />
+            <element signature="e#36199#36305#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Logica/logicaComponentes.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="850">
+          <caret line="54" column="54" lean-forward="false" selection-start-line="54" selection-start-column="54" selection-end-line="54" selection-end-column="54" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Controladores/controladorComponentes.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" column="29" lean-forward="false" selection-start-line="17" selection-start-column="29" selection-end-line="17" selection-end-column="29" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ConsultsPreparer/consultsPreparerComponente.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="935">
+          <caret line="55" column="31" lean-forward="false" selection-start-line="55" selection-start-column="31" selection-end-line="55" selection-end-column="31" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ConexionDBs/sqlConection.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2193">
+          <caret line="129" column="49" lean-forward="false" selection-start-line="129" selection-start-column="49" selection-end-line="129" selection-end-column="49" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="935">
+          <caret line="55" column="39" lean-forward="false" selection-start-line="55" selection-start-column="39" selection-end-line="55" selection-end-column="39" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Logica Juego/funciones_principales.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#240#411#0" expanded="false" />
+            <element signature="e#473#763#0" expanded="false" />
+            <element signature="e#764#887#0" expanded="false" />
+            <element signature="e#928#1119#0" expanded="false" />
+            <element signature="e#1120#1182#0" expanded="false" />
+            <element signature="e#1215#1438#0" expanded="false" />
+            <element signature="e#1439#1510#0" expanded="false" />
+            <element signature="e#1543#1693#0" expanded="false" />
+            <element signature="e#1694#1803#0" expanded="false" />
+            <element signature="e#1838#2547#0" expanded="false" />
+            <element signature="e#2548#2675#0" expanded="false" />
+            <element signature="e#3550#3658#0" expanded="false" />
+            <element signature="e#3692#4369#0" expanded="false" />
+            <element signature="e#4370#4495#0" expanded="false" />
+            <element signature="e#5403#5522#0" expanded="false" />
+            <element signature="e#5558#6236#0" expanded="false" />
+            <element signature="e#6237#6370#0" expanded="false" />
+            <element signature="e#7279#7396#0" expanded="false" />
+            <element signature="e#7434#8134#0" expanded="false" />
+            <element signature="e#8135#8270#0" expanded="false" />
+            <element signature="e#9147#9253#0" expanded="false" />
+            <element signature="e#9295#10083#0" expanded="false" />
+            <element signature="e#10084#10219#0" expanded="false" />
+            <element signature="e#11210#11333#0" expanded="false" />
+            <element signature="e#11374#12122#0" expanded="false" />
+            <element signature="e#12123#12249#0" expanded="false" />
+            <element signature="e#13273#13389#0" expanded="false" />
+            <element signature="e#13433#14248#0" expanded="false" />
+            <element signature="e#14249#14376#0" expanded="false" />
+            <element signature="e#15333#15441#0" expanded="false" />
+            <element signature="e#15484#16267#0" expanded="false" />
+            <element signature="e#16268#16394#0" expanded="false" />
+            <element signature="n#!!doc;n#ordenarLista#0" expanded="false" />
+            <element signature="n#!!block;n#ordenarLista#0" expanded="false" />
+            <element signature="n#!!doc;n#devuelveFichasPC#0" expanded="false" />
+            <element signature="n#!!block;n#devuelveFichasPC#0" expanded="false" />
+            <element signature="n#!!doc;n#fichasJugadorXtienenJugada#0" expanded="false" />
+            <element signature="n#!!doc;n#posiblesJugadas#0" expanded="false" />
+            <element signature="n#!!block;n#posiblesJugadas#0" expanded="false" />
+            <element signature="e#20729#20861#0" expanded="false" />
+            <element signature="e#36199#36305#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Logica/logicaComponentes.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="918">
+          <caret line="54" column="54" lean-forward="true" selection-start-line="54" selection-start-column="54" selection-end-line="54" selection-end-column="54" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Controladores/controladorComponentes.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" column="29" lean-forward="true" selection-start-line="17" selection-start-column="29" selection-end-line="17" selection-end-column="29" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ConsultsPreparer/consultsPreparerComponente.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="935">
+          <caret line="55" column="31" lean-forward="true" selection-start-line="55" selection-start-column="31" selection-end-line="55" selection-end-column="31" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ConexionDBs/sqlConection.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2193">
+          <caret line="129" column="49" lean-forward="true" selection-start-line="129" selection-start-column="49" selection-end-line="129" selection-end-column="49" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="731">
+          <caret line="55" column="39" lean-forward="false" selection-start-line="55" selection-start-column="39" selection-end-line="55" selection-end-column="39" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Logica Juego/funciones_principales.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#240#411#0" expanded="false" />
+            <element signature="e#473#763#0" expanded="false" />
+            <element signature="e#764#887#0" expanded="false" />
+            <element signature="e#928#1119#0" expanded="false" />
+            <element signature="e#1120#1182#0" expanded="false" />
+            <element signature="e#1215#1438#0" expanded="false" />
+            <element signature="e#1439#1510#0" expanded="false" />
+            <element signature="e#1543#1693#0" expanded="false" />
+            <element signature="e#1694#1803#0" expanded="false" />
+            <element signature="e#1838#2547#0" expanded="false" />
+            <element signature="e#2548#2675#0" expanded="false" />
+            <element signature="e#3550#3658#0" expanded="false" />
+            <element signature="e#3692#4369#0" expanded="false" />
+            <element signature="e#4370#4495#0" expanded="false" />
+            <element signature="e#5403#5522#0" expanded="false" />
+            <element signature="e#5558#6236#0" expanded="false" />
+            <element signature="e#6237#6370#0" expanded="false" />
+            <element signature="e#7279#7396#0" expanded="false" />
+            <element signature="e#7434#8134#0" expanded="false" />
+            <element signature="e#8135#8270#0" expanded="false" />
+            <element signature="e#9147#9253#0" expanded="false" />
+            <element signature="e#9295#10083#0" expanded="false" />
+            <element signature="e#10084#10219#0" expanded="false" />
+            <element signature="e#11210#11333#0" expanded="false" />
+            <element signature="e#11374#12122#0" expanded="false" />
+            <element signature="e#12123#12249#0" expanded="false" />
+            <element signature="e#13273#13389#0" expanded="false" />
+            <element signature="e#13433#14248#0" expanded="false" />
+            <element signature="e#14249#14376#0" expanded="false" />
+            <element signature="e#15333#15441#0" expanded="false" />
+            <element signature="e#15484#16267#0" expanded="false" />
+            <element signature="e#16268#16394#0" expanded="false" />
+            <element signature="n#!!doc;n#ordenarLista#0" expanded="false" />
+            <element signature="n#!!block;n#ordenarLista#0" expanded="false" />
+            <element signature="n#!!doc;n#devuelveFichasPC#0" expanded="false" />
+            <element signature="n#!!block;n#devuelveFichasPC#0" expanded="false" />
+            <element signature="n#!!doc;n#fichasJugadorXtienenJugada#0" expanded="false" />
+            <element signature="n#!!doc;n#posiblesJugadas#0" expanded="false" />
+            <element signature="n#!!block;n#posiblesJugadas#0" expanded="false" />
+            <element signature="e#20729#20861#0" expanded="false" />
+            <element signature="e#36199#36305#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Logica/logicaComponentes.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="527">
+          <caret line="31" column="0" lean-forward="true" selection-start-line="31" selection-start-column="0" selection-end-line="31" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Controladores/controladorComponentes.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="9" column="21" lean-forward="false" selection-start-line="9" selection-start-column="21" selection-end-line="9" selection-end-column="21" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ConsultsPreparer/consultsPreparerComponente.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="37" lean-forward="true" selection-start-line="14" selection-start-column="37" selection-end-line="14" selection-end-column="37" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ConexionDBs/sqlConection.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2210">
+          <caret line="130" column="29" lean-forward="true" selection-start-line="130" selection-start-column="29" selection-end-line="130" selection-end-column="29" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="731">
+          <caret line="55" column="39" lean-forward="false" selection-start-line="55" selection-start-column="39" selection-end-line="55" selection-end-column="39" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/mssql/lib/base.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-136">
+          <caret line="1" column="0" lean-forward="true" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="55" column="39" lean-forward="false" selection-start-line="55" selection-start-column="39" selection-end-line="55" selection-end-column="39" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ConexionDBs/sqlConection.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-220">
+          <caret line="129" column="49" lean-forward="false" selection-start-line="129" selection-start-column="49" selection-end-line="129" selection-end-column="49" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ConsultsPreparer/consultsPreparerComponente.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="52" column="41" lean-forward="false" selection-start-line="52" selection-start-column="41" selection-end-line="52" selection-end-column="41" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Controladores/controladorComponentes.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="27" lean-forward="true" selection-start-line="10" selection-start-column="27" selection-end-line="10" selection-end-column="27" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Logica/logicaComponentes.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="58" column="22" lean-forward="true" selection-start-line="58" selection-start-column="22" selection-end-line="58" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Logica Juego/funciones_principales.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="236">
+          <caret line="530" column="9" lean-forward="true" selection-start-line="530" selection-start-column="9" selection-end-line="530" selection-end-column="9" />
+          <folding>
+            <element signature="e#240#411#0" expanded="false" />
+            <element signature="e#473#763#0" expanded="false" />
+            <element signature="e#764#887#0" expanded="false" />
+            <element signature="e#928#1119#0" expanded="false" />
+            <element signature="e#1120#1182#0" expanded="false" />
+            <element signature="e#1215#1438#0" expanded="false" />
+            <element signature="e#1439#1510#0" expanded="false" />
+            <element signature="e#1543#1693#0" expanded="false" />
+            <element signature="e#1694#1803#0" expanded="false" />
+            <element signature="e#1838#2547#0" expanded="false" />
+            <element signature="e#2548#2675#0" expanded="false" />
+            <element signature="e#3550#3658#0" expanded="false" />
+            <element signature="e#3692#4369#0" expanded="false" />
+            <element signature="e#4370#4495#0" expanded="false" />
+            <element signature="e#5403#5522#0" expanded="false" />
+            <element signature="e#5558#6236#0" expanded="false" />
+            <element signature="e#6237#6370#0" expanded="false" />
+            <element signature="e#7279#7396#0" expanded="false" />
+            <element signature="e#7434#8134#0" expanded="false" />
+            <element signature="e#8135#8270#0" expanded="false" />
+            <element signature="e#9147#9253#0" expanded="false" />
+            <element signature="e#9295#10083#0" expanded="false" />
+            <element signature="e#10084#10219#0" expanded="false" />
+            <element signature="e#11210#11333#0" expanded="false" />
+            <element signature="e#11374#12122#0" expanded="false" />
+            <element signature="e#12123#12249#0" expanded="false" />
+            <element signature="e#13273#13389#0" expanded="false" />
+            <element signature="e#13433#14248#0" expanded="false" />
+            <element signature="e#14249#14376#0" expanded="false" />
+            <element signature="e#15333#15441#0" expanded="false" />
+            <element signature="e#15484#16267#0" expanded="false" />
+            <element signature="e#16268#16394#0" expanded="false" />
+            <element signature="n#!!doc;n#ordenarLista#0" expanded="false" />
+            <element signature="n#!!block;n#ordenarLista#0" expanded="false" />
+            <element signature="n#!!doc;n#devuelveFichasPC#0" expanded="false" />
+            <element signature="n#!!block;n#devuelveFichasPC#0" expanded="false" />
+            <element signature="n#!!doc;n#fichasJugadorXtienenJugada#0" expanded="false" />
+            <element signature="n#!!doc;n#posiblesJugadas#0" expanded="false" />
+            <element signature="n#!!block;n#posiblesJugadas#0" expanded="false" />
+            <element signature="e#20729#20861#0" expanded="false" />
+            <element signature="e#36199#36305#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
