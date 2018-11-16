@@ -11,6 +11,7 @@
     "angular-messages": "^1.5.8",
     "angular-pnotify": "^0.1.2",
     "async": "^2.6.1",
+    "azure-storage": "^2.10.2",
     "body-parser": "^1.18.2",
     "express": "^4.14.1",
     "hotnode": "0.0.8",

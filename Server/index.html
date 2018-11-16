@@ -24,7 +24,7 @@
             // you used to access your index.html file!
             document.getElementById("generate").disabled = true;
             document.getElementById("cancel").disabled = false; 
-            $.get('http://localhost:5000/start', function() {
+            $.get('http://localhost:8080/start', function() {
                 
             });
         });
@@ -34,7 +34,7 @@
             // you used to access your index.html file!
             document.getElementById("generate").disabled = false;
             document.getElementById("cancel").disabled = true;
-            $.get('http://localhost:5000/stop', function() {
+            $.get('http://localhost:8080/stop', function() {
                 
             });
         });
